@@ -1,5 +1,6 @@
 # lab01
-A new Flutter project 01 by nguyen thi ngoc huong
+Lab 01 I am rich - nguyen thi ngoc huong
+![img.png](img.png)
 
 ## Getting Started
 
